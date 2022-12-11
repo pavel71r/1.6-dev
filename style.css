@@ -452,7 +452,7 @@ body {
   .section-bot__link-text {
     position: relative; }
   .section-bot__link-text::after {
-    content: url(/1.6/image/Line.svg);
+    content: url(image/Line.svg);
     position: absolute;
     right: -15px;
     bottom: -2px; }
