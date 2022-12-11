@@ -150,11 +150,11 @@ textarea {
 
 @font-face {
   font-family: TTLakesBold;
-  src: url(/fonts/TTLakes-Bold.woff); }
+  src: url(fonts/TTLakes-Bold.woff); }
 
 @font-face {
   font-family: TTLakesRegular;
-  src: url(/fonts/TTLakes-Regular.woff); }
+  src: url(./fonts/TTLakes-Regular.woff); }
 
 body {
   background-color: #f8f8f8;
