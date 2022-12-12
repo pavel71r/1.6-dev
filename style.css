@@ -632,7 +632,7 @@ body {
   padding-top: 16px;
   padding-left: 8px; }
 
-.swiper-bottom__wrapper .swiper-slide:first-child {
+.swiper-bottom .subtitle-slide {
   display: none; }
 
 .swiper-bottom__list {
